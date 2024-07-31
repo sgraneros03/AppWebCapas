@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Clases.Interfaces/1.0.0": {
+        "dependencies": {
+          "Clases.Modelo": "1.0.0"
+        },
+        "runtime": {
+          "Clases.Interfaces.dll": {}
+        }
+      },
+      "Clases.Modelo/1.0.0": {
+        "runtime": {
+          "Clases.Modelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clases.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clases.Modelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clase.Modelo\bin\Debug\net7.0\Clases.Modelo.deps.json
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clase.Modelo\bin\Debug\net7.0\Clases.Modelo.dll
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clase.Modelo\bin\Debug\net7.0\Clases.Modelo.pdb
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clase.Modelo\obj\Debug\net7.0\Clases.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clase.Modelo\obj\Debug\net7.0\Clases.Modelo.AssemblyInfoInputs.cache
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clase.Modelo\obj\Debug\net7.0\Clases.Modelo.AssemblyInfo.cs
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clase.Modelo\obj\Debug\net7.0\Clases.Modelo.csproj.CoreCompileInputs.cache
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clase.Modelo\obj\Debug\net7.0\Clases.Modelo.dll
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clase.Modelo\obj\Debug\net7.0\refint\Clases.Modelo.dll
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clase.Modelo\obj\Debug\net7.0\Clases.Modelo.pdb
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clase.Modelo\obj\Debug\net7.0\ref\Clases.Modelo.dll

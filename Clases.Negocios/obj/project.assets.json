@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Clases.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Clases.Modelo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Clases.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clases.Interfaces.dll": {}
+        }
+      },
+      "Clases.Modelo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Clases.Modelo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clases.Modelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clases.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../Clases.Interfaces/Clases.Interfaces.csproj",
+      "msbuildProject": "../Clases.Interfaces/Clases.Interfaces.csproj"
+    },
+    "Clases.Modelo/1.0.0": {
+      "type": "project",
+      "path": "../Clase.Modelo/Clases.Modelo.csproj",
+      "msbuildProject": "../Clase.Modelo/Clases.Modelo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Clases.Interfaces >= 1.0.0",
+      "Clases.Modelo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Santiago Graneros\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebCapas\\Clases.Negocios\\Clases.Negocios.csproj",
+      "projectName": "Clases.Negocios",
+      "projectPath": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebCapas\\Clases.Negocios\\Clases.Negocios.csproj",
+      "packagesPath": "C:\\Users\\Santiago Graneros\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebCapas\\Clases.Negocios\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Santiago Graneros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebCapas\\Clase.Modelo\\Clases.Modelo.csproj": {
+              "projectPath": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebCapas\\Clase.Modelo\\Clases.Modelo.csproj"
+            },
+            "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebCapas\\Clases.Interfaces\\Clases.Interfaces.csproj": {
+              "projectPath": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebCapas\\Clases.Interfaces\\Clases.Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

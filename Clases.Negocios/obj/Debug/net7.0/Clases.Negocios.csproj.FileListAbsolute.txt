@@ -1,0 +1,17 @@
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\bin\Debug\net7.0\Clases.Negocios.deps.json
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\bin\Debug\net7.0\Clases.Negocios.dll
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\bin\Debug\net7.0\Clases.Negocios.pdb
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\bin\Debug\net7.0\Clases.Interfaces.dll
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\bin\Debug\net7.0\Clases.Modelo.dll
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\bin\Debug\net7.0\Clases.Modelo.pdb
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\bin\Debug\net7.0\Clases.Interfaces.pdb
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\obj\Debug\net7.0\Clases.Negocios.csproj.AssemblyReference.cache
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\obj\Debug\net7.0\Clases.Negocios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\obj\Debug\net7.0\Clases.Negocios.AssemblyInfoInputs.cache
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\obj\Debug\net7.0\Clases.Negocios.AssemblyInfo.cs
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\obj\Debug\net7.0\Clases.Negocios.csproj.CoreCompileInputs.cache
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\obj\Debug\net7.0\Clases.Negocios.csproj.CopyComplete
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\obj\Debug\net7.0\Clases.Negocios.dll
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\obj\Debug\net7.0\refint\Clases.Negocios.dll
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\obj\Debug\net7.0\Clases.Negocios.pdb
+D:\Users\Santiago Graneros\source\repos\AppWebCapas\Clases.Negocios\obj\Debug\net7.0\ref\Clases.Negocios.dll
